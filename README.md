@@ -131,3 +131,6 @@ The script will:
 3. **Output Issues**
    - Ensure sufficient disk space
    - Check write permissions in the output directory
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
